@@ -1,0 +1,17 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Virtual Environment
+venv/
+
+# Ignore local database
+*.db
+
+# Ignore OS junk
+.DS_Store
+Thumbs.db
+
+# Ignore editor config
+.vscode/
+.idea/
